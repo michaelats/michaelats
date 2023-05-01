@@ -4,7 +4,7 @@
 ## Let's Connect
 
 <a href="mailto:strs.michaels@gmail.com?subject='Found you on GitHub'" alt='gmail'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a alt='instagram' href="https://www.instagram.com/michaelats/"><img src="https://img.shields.io/badge/patuangs-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a alt='instagram' href="https://www.instagram.com/michaelats/"><img src="https://img.shields.io/badge/michaelats-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a alt='linkedin' href=https://www.linkedin.com/in/michael-atur-tito-sitorus><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## 💻 I’m currently mastering:
